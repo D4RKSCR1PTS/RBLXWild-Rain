@@ -1,0 +1,10 @@
+{
+    "RainJoinSound": true,
+    "disabled_controls": false,
+    "run_for_certain_time": false,
+    "website_reload": false,
+    "website_refresh": false,
+    "run_time": 1,
+    "run_time_convert": "seconds",
+    "key": "key here"
+}
